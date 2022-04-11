@@ -1,13 +1,13 @@
 # Virtual-Guy
-A simple but fun game made in Unity!!
+⚪ - A simple but fun game made in Unity!!
 
-Game is coded in C# (didnt know its this tough)
+⚪ - Game is coded in C# (didnt know its this tough)
 
-The game art is avaible on Unity Asset Store.
+⚪ - The game art is avaible on Unity Asset Store.
 
-All the charaters and textures are taken from Pixel Adventure 1.
+⚪ - All the charaters and textures are taken from Pixel Adventure 1.
 
-If you wanna try the game. 
+🔴 - If you wanna try the game. 
   1. Install the Virtual_Guy.zip from the repository.
   2. Unzip the folder.
   3. Run the Virtual_Guy.exe.
